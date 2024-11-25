@@ -12,4 +12,4 @@ The step-by-step process:
 
 This process sets up a basic Spring MVC application with a MySQL database, allowing you to perform CRUD (Create, Read, Update, Delete) operations on a `users` table.
 
-![Untitled diagram-2024-11-21-071529.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/16aaf4f8-3535-402c-bb91-22e12e029275/64453ff9-f921-421d-b944-d17a671f5b46/Untitled_diagram-2024-11-21-071529.png)
+![Untitled diagram-2024-11-21-071529 (1)](https://github.com/user-attachments/assets/4637a1c0-be2b-4dc4-9283-84189106cad5)
